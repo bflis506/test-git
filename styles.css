@@ -1,0 +1,15 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Island+Moments&display=swap');
+
+/* body{
+    font-family: 'Island Moments', cursive;
+    
+}
+h1,h2{
+    font-family: 'Anton', sans-serif;
+   
+} */
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
